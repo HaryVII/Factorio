@@ -30,3 +30,4 @@ vanilla ex
 warehousing
 angels infinite ores
 angels refining
+angels processing
