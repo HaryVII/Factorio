@@ -3,6 +3,7 @@
 5dim vehicles
 advanced logistic system
 afraid of the dark
+aircraft
 bio farm
 bob assembly
 bob electronics
@@ -31,3 +32,4 @@ warehousing
 angels infinite ores
 angels refining
 angels processing
+oxygen
